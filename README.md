@@ -1,3 +1,13 @@
+<!-- portfolio
+title: Your Text, Your Style
+tagline: Auto-Generate a Presentation
+category: LLM agents and apps
+summary: Turns bulk text or Markdown into a PowerPoint deck in the style of any uploaded template, using the visitor's own LLM API key, which is never stored.
+tags: Python, FastAPI, python-pptx, LLM APIs
+slug: prompt2ppt
+featured: yes
+-->
+
 # Your Text, Your Style – Auto-Generate a Presentation
 
 Turn bulk text/Markdown into a fully formatted PowerPoint that **matches your uploaded template’s look & feel**. Bring your own LLM API key (OpenAI, Anthropic, or Gemini). **No AI image generation** — the app **reuses images** found in the uploaded template/presentation.
